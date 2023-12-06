@@ -61,7 +61,7 @@
 
 <script>
 import cartcontrol from 'components/cartcontrol/cartcontrol'
-import backdrop from 'components/backdrop/backdrop'
+import backdrop from 'components/backdrop/backdrop-train'
 import BScroll from 'better-scroll'
 
 export default {
